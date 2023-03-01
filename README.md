@@ -9,7 +9,7 @@ By setting the **HideSelection** property to **false**, you can keep the current
 // To ensure that the selected node is highlighted always
 this.treeViewAdv1.HideSelection = false;
 
-// The appearence of selection rectangle can be changed by following property
+// The appearance of selection rectangle can be changed by following property
 // To identify selected node is highlighted or not when TreeViewAdv loses focus  
 // Set custom colors to the selection rectangle
 this.treeViewAdv1.InactiveSelectedNodeBackground = new BrushInfo(Color.Green);
@@ -24,7 +24,7 @@ this.treeViewAdv1.InactiveSelectedNodeForeColor = Color.White;
 ' To ensure that the selected node is highlighted always
 Me.treeViewAdv1.HideSelection = False
 
-' The appearence of selection rectangle can be changed by following property
+' The appearance of selection rectangle can be changed by following property
 ' To identify selected node is highlighted or not when TreeViewAdv loses focus  
 ' Set custom colors to the selection rectangle
 Me.treeViewAdv1.InactiveSelectedNodeBackground = New BrushInfo(Color.Green)
